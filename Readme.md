@@ -1,13 +1,3 @@
-Of course. Here is a professional README.md file for your Equiderma project, formatted for direct use in your GitHub repository and including the Kaggle dataset link.
-
-Equiderma: Equitable AI for Dermatology
-Equiderma is an intelligent, equitable classification tool that analyzes user-uploaded images of skin lesions. It integrates a highly accurate computer vision model with the analytical power of Google's Gemini API to provide instant, understandable details about detected skin conditions.
-
-Problem Statement
-Current dermatological AI models are often trained on datasets heavily biased towards lighter skin tones, leading to lower diagnostic accuracy for individuals with darker skin and reinforcing health inequalities. Equiderma's mission is to build equitable and accurate AI tools to democratize dermatology.
-
-
-
 Features
 Instant AI Analysis: Upload a skin lesion image and receive an immediate classification from a trained Keras model.
 

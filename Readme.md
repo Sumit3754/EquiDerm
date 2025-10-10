@@ -42,6 +42,11 @@ Classes: The data is structured into 7 categories: Melanoma, Melanocytic Nevi, B
 Download: You can download the dataset from Kaggle:
 https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
+You can download keras model too from here to run this model -- https://keras.io/api/models/model/
+and - https://www.tensorflow.org/api_docs/python/tf/keras/Model 
+
+*Currently we are not able to load this huge dataset around 8 gb and model so we are currently running it on our localhost and to get live demo we need enterprise plan to run this model.*
+
 Installation & Setup
 To run this project locally, follow these steps:
 
@@ -95,3 +100,4 @@ Dipanshu Parashar: Backend & API Integration Specialist
 
 
 Sneha Kumari: Application Developer (UI/UX) 
+

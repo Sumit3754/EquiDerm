@@ -102,5 +102,7 @@ Dipanshu Parashar: Backend & API Integration Specialist
 Sneha Kumari: Application Developer (UI/UX) 
 
 
-GO TO THIS LIVE LINK TO CHECK PROJECT -- https://24a919cb9597.ngrok-free.app/
+GO TO THIS LIVE LINK TO CHECK PROJECT -- https://c79803cfdb5d.ngrok-free.app/ 
+-- Sometimes it fluctuates due to network or limited badwidth 
+
 

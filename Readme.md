@@ -90,7 +90,13 @@ Go Mobile: Develop a mobile application for iOS and Android to maximize accessib
 
 Team Neuro Ninjas
 
-Sumit Chauhan: Project Lead & AI Strategist 
+Su![eq![eq_4](https://github.com/user-attachments/assets/7c32d5a0-ad3b-4870-8![eq_5](https://github.com/user-attachments/assets/cb68e8c1-7c06-428d-8f9b-f5df0c05db06)
+ca9-0e94640ff91f)
+_3](https://github.com/user-attachments/assets/9c73efb9-78bf-4fd8-8659-d0a6d![eq_5](https://github.com/user-attachments/assets/155a9d00-feb5-42f6-a58c-e18b0fec523f)
+099df1c)
+m![eq_2](https://github.com/user-attachments/assets/5c6a3024-db1e-4318-b02d-edb1702966fa)
+it Chauhan: Project Lead & AI Strategist 
+![eq_1](https://github.com/user-attachments/assets/e2692991-eaad-47c2-a84a-8a6e5dde8779)
 
 
 Varun Solanki: Machine Learning Engineer 
@@ -106,5 +112,6 @@ GO TO THIS LIVE LINK TO CHECK PROJECT -- https://c79803cfdb5d.ngrok-free.app/
 -- Sometimes it fluctuates due to network or limited badwidth 
 
 FOR TESTING LIVE WEB-CAM YOU ARE REQUIRED TO USE ONLY FIREFOX AND CHROME BROWSER......./ 
+
 
 

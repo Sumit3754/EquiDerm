@@ -12,7 +12,7 @@ CLASS_NAMES = ['Actinic Keratosis', 'Basal Cell Carcinoma', 'Benign Keratosis', 
 
 # --- Gemini API Configuration ---
 # TODO: Replace "YOUR_GEMINI_API_KEY" with the key you got from Google AI Studio
-GEMINI_API_KEY = st.secrets["AIzaSyAt2UAbQXTDHVCWpnLNG4_Q6QPHOZzK7NY"] 
+GEMINI_API_KEY = st.secrets["API_KEY"] 
 genai.configure(api_key=GEMINI_API_KEY)
 
 
@@ -91,4 +91,5 @@ with col2:
                 gemini_analysis = get_gemini_response(class_name)
                 st.markdown(gemini_analysis)
     else:
+
         st.info("Please upload an image to see the analysis.")
